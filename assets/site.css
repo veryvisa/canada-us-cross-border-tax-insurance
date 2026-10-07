@@ -114,3 +114,17 @@ img,svg{max-width:100%}
 @media (min-width:760px){.form{padding:28px}.sec{padding:64px 0}}
 @media (max-width:480px){.btn-ghost{margin:10px 0 0}.vv-site{display:none}}
 @media print{.vv-top,.toc,.contact,.vv-foot{display:none}}
+
+/* 子页面：面包屑与站内导航（kit 2026-10-06） */
+a.vv-site{text-decoration:none}
+.crumbs{background:var(--card);border-bottom:1px solid var(--line);font-size:13px;color:var(--muted)}
+.crumbs .wrap{padding-top:8px;padding-bottom:8px;white-space:nowrap;overflow-x:auto;scrollbar-width:none}
+.crumbs a{color:var(--muted)}
+.pages h3{font-size:15px;color:var(--muted);font-weight:600;margin:22px 0 8px;letter-spacing:.02em}
+.pagenav{list-style:none;margin:0;padding:0;display:grid;gap:10px;grid-template-columns:repeat(auto-fit,minmax(220px,1fr))}
+.pagenav li a,.pagenav li.cur span{display:block;height:100%;background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:12px 14px;text-decoration:none;color:var(--ink)}
+.pagenav li a:hover{border-color:var(--accent)}
+.pagenav li a strong{display:block;color:var(--accent);font-size:16px}
+.pagenav li a span{display:block;font-size:14px;color:var(--muted);line-height:1.6;margin-top:2px}
+.pagenav li.cur span{background:var(--soft);color:var(--muted);font-size:14px}
+.pagenav-home{margin-top:16px}
