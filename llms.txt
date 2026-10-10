@@ -5,13 +5,13 @@
 网址：https://veryvisa.github.io/canada-us-cross-border-tax-insurance/
 提供方：微出国（VeryVisa）。微出国是在加拿大不列颠哥伦比亚省的中文专业服务团队，服务海外华人家庭与小企业。
 咨询：页面底部表单，或邮件 veryvisa.com@gmail.com
-信息截至：2026-10-05
+信息截至：2026-10-09
 
 ## 服务内容
-美国身份的判定 梳理您的美国身份是否「尚未结束」，以及哪些年份、哪些表格可能有所遗漏。 账户分类 说明 FBAR、8938 与加拿大 T1135 的区别，并将您的账户逐一归类。 两国账户与遗产的对照说明 TFSA、RESP、RRSP 在两国的不同待遇，以及美国遗产税对加拿大人的大致逻辑。 投保前的问题清单 有美国身份时，投保前应向卖方提出哪些问题，列为一份清单。 一页情形说明与转介 将情形整理为一页说明，转介美国 EA 或 CPA、加拿大持牌会计师与持牌保险顾问。
+美国身份的判定 梳理您的美国身份是否「尚未结束」：绿卡过期或在边境被收走、I-407 是否签过、在美国出生是否取得公民身份；以及哪些年份、哪些表格可能有所遗漏。 两国账户与保单清单 将您在两国的账户与保单逐一列出并归类：TFSA、FHSA、RESP、RRSP，加拿大的基金与 ETF，分离基金与带现金价值的保单。注明哪些要计入 FBAR 与 8938，哪些可能牵出额外表格，并说明与加拿大 T1135 的区别。 两国账户与遗产的对照说明 TFSA、RESP、RRSP 在两国的不同待遇，以及美国遗产税对加拿大人的大致逻辑。 投保前的问题清单 有美国身份时，投保前应向卖方提出哪些问题，列为一份清单。 一页情形说明与转介 将情形整理为一页说明，转介美国 EA 或 CPA、加拿大持牌会计师与持牌保险顾问。
 
 ## 适用情形
-居住在加拿大的美国公民与绿卡持有人 从未申报过美国税，或不确定是否需要申报；也包括在美国出生、自己从未意识到具有美国身份的「意外的美国人」。 在美国有房产、每年前往居住数月 关注美国遗产税、美国的医疗费用，以及出境后省医保的保障范围。 在两国之间迁居的家庭 从加拿大迁往美国，或从美国迁回加拿大，TFSA、RESP、RRSP 与房产应先处理哪一项。 有美国身份，同时持有加拿大账户 TFSA、RESP 与基金在美国税表上如何计算，是否须计入 FBAR。 有美国身份，准备投保 希望先了解一份加拿大保单对本人美国申报的影响。
+居住在加拿大的美国公民与绿卡持有人 从未申报过美国税，或不确定是否需要申报；也包括在美国出生、自己从未意识到具有美国身份的「意外的美国人」。 在美国有房产、每年前往居住数月 关注美国遗产税、美国的医疗费用，以及出境后省医保的保障范围。 在两国之间迁居的家庭 从加拿大迁往美国，或从美国迁回加拿大，TFSA、RESP、RRSP 与房产应先处理哪一项。 有美国身份，同时持有加拿大账户 TFSA、RESP 与基金在美国税表上如何计算，是否须计入 FBAR。 有美国身份，准备投保 希望先了解一份加拿大保单对本人美国申报的影响。 从未报过美国税，想先厘清影响 在加拿大一直正常报税，却从未报过美国税表与 FBAR；想补报，又想先知道补报对 TFSA 与加拿大的理财有何影响。 美国出生的孩子 孩子在美国出生、随家人回到加拿大，日后要不要报美国税、能否开 RESP、是否需要 SSN。
 
 ## 工作方式
 1. 在页末表单留下邮箱，选择最接近的一项，简要说明您的情况，无须填写任何号码。 2. 我们回复一页：您可能涉及的两国表格与关键日期，附 IRS 与 CRA 原文链接。 3. 如有需要，约一次线上沟通，补齐身份时间线、账户类型与保单类型。 4. 整理为一页情形说明，经您确认后，转介两国的持牌专业人士，由对方提供专业服务。
@@ -28,8 +28,8 @@
 ## 咨询之前的四项准备
 1. 列出您名下所有加拿大与中国的账户，包括 TFSA、RRSP、RESP 与带现金价值的保单，记下每个账户去年的最高余额。 2. 核实本人的美国身份：绿卡是否已正式交还，是否持有美国护照。 3. 确认有无美国房产、美国账户与美国来源的收入。 4. 将以上内容写成一页。第一次与持牌人士沟通时，这一页可节省不少时间与费用。
 
-## 一个常见情形：绿卡过期八年
-以下是一个常见情形，并非某一位当事人的经历。 一位先生早年在美国读研、取得绿卡，后来回国工作，再移民温哥华。绿卡几年前已经过期，他再未去过美国，也从未想过此事仍与自己有关。直到银行开户时被问及「是否为美国税务居民」，他才开始核查：加拿大账户里有多少资金、TFSA 中持有基金，还有一份带现金价值的保单。 在美国税法中，绿卡测试不看居住地：一年内任何时候是合法永久居民，这一年即为美国税务居民。卡片过期、本人身在国外，都不会使身份自行结束。因此他可能每年都欠着美国的申报：美国税表须申报全球收入，在加拿大已缴的税通常可以抵免，但表格本身仍须申报；加拿大的账户合计超过门槛，还须申报 FBAR。 两国规则多数时候并不冲突，问题往往出在不知道另一国也有一套规则。
+## 常被问到的几件事
+以下几段取自公开论坛中当事人的原话，链接附后。个案经过以原帖为准。 一直只报加拿大税，想补又怕。 「I have been filing Canadian taxes like a normal resident but I have never filed US returns or FBARs.」「I want to fix this properly now, but I need to understand the practical impact on my Canadian finances before I start.」（r/PersonalFinanceCanada，2026-03）。另一位十年未报的写道：「I feel completely over my head and on the verge of a breakdown.」（r/USExpatTaxes，2025-07）。先把身份时间线与账户列清，影响有多大就有了轮廓；IRS 的简化程序要求证明未申报属于非故意，适用与否由持牌人判断。 绿卡过期，以为身份已经结束。 「I stopped filing U.S. taxes that same year — not realizing that I was still considered a U.S. person for tax purposes even after leaving.」（r/USExpatTaxes，2025-04）；也有人的绿卡在边境被收走，「I do not recall signing a form I-407.」（r/USExpatTaxes，2024-06）。身份何时结束，要看正式放弃或被撤销的记录，不看卡片是否过期。 在美国出生，从未在美国生活。 「I found out I'm actually an american citizen by birth since my father was an american」（r/USExpatTaxes，2023-06）。没有社会安全号码的，补办时有人被要求「pro
 
 ## 与保险相关的部分
 有美国身份的人士，购买加拿大的储蓄型或投资型保险之前，宜先问三件事：这份保单在美国是否算作境外账户，其中的投资部分会否带来额外的美国申报，日后迁往美国时这份保单如何处理。经常前往美国过冬的人士，还应了解省医保在美国可报销多少，以及旅行医疗险的条款与既往症限制。这些问题由持牌保险顾问提供咨询，可在表单中一并提出。
@@ -63,6 +63,15 @@
 问：在加拿大居住多年未报美国税，是否仍有补救途径？
 答：有。IRS 为居住在境外、属于非故意漏报的人士设有简化的补报程序，符合条件可免于罚款。但它并非自动适用，须能说明漏报属于非故意。不宜自行仓促补报，也不宜等到 IRS 来信才着手；应先厘清情形，再交由持牌人士判断适用哪条途径。
 
+问：在美国出生的孩子，能否在加拿大开 RESP？
+答：可以开设，但美国一侧的影响要看开户人是否有美国身份、账户里放什么；孩子日后若到美国就读、不再是加拿大居民，政府补助部分的领取另有规定。宜在开户前把开户人身份、孩子身份与日后的就读打算一并列清，再请两国持牌人士判断。
+
+问：有美国身份，出售加拿大的自住房在美国是否计税？
+答：加拿大的主要住所免税在美国不适用。据 IRS 说明，符合持有与居住各满两年等条件的，出售主要住所的收益可排除至多 25 万美元，夫妻合并申报至多 50 万美元，超出部分在美国计税。见 IRS Topic 701。
+
+问：没有美国社会安全号码（SSN），怎么补报？
+答：据 IRS 简化程序页面，美国公民补报须使用有效的 SSN；没有的，须先向美国社会安全局申请。海外申请所需的证明较多，宜预留时间。见 IRS：Streamlined filing compliance procedures。
+
 问：美国税或 FBAR 的申报怎样安排？
 答：材料与年度清单整理好后，可转介美国注册税务人员（EA 或 CPA）。由您与受托人确认服务范围、申报与代理安排。
 
@@ -76,5 +85,7 @@
 - IRS：PTIN requirements for tax return preparers: https://www.irs.gov/tax-professionals/ptin-requirements-for-tax-return-preparers
 - IRS：Understanding tax return preparer credentials: https://www.irs.gov/tax-professionals/understanding-tax-return-preparer-credentials-and-qualifications
 - CRA：Questions and answers about Form T1135: https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/information-been-moved/foreign-reporting/questions-answers-about-form-t1135.html
+- IRS：Topic 701 出售住房: https://www.irs.gov/taxtopics/tc701
+- IRS：Streamlined filing compliance procedures: https://www.irs.gov/individuals/international-taxpayers/streamlined-filing-compliance-procedures
 
 两国税务规则以 IRS 与 CRA 原文为准。申报可转介注册税务人员，保险由持牌保险顾问另行提供。
